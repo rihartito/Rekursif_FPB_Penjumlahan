@@ -1,10 +1,4 @@
 '''
-Rihar del tito-71200648
-Universitas Kristen Duta Wacana
-Fungsi Rekursif
-https://www.w3resource.com/python-exercises/data-structures-and-algorithms/python-recursion.php
-
-
 Buatlah sebuah program buat memudahkan mengerjakan matematika dengan inputan user
 1.buatlah sejumlah penjumlahan dengan rumus n+n-2+sampai n=0
 2.mencari FPB 2 bilangan
